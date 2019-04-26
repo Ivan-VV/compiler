@@ -1,2 +1,3 @@
 *.c linguist-language=cpp
 *.h linguist-language=cpp
+*.txt linguist-language=cpp
