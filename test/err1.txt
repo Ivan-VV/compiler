@@ -1,0 +1,1 @@
+if not -a >= a+5 or false then begin b:=a+c; begin if true and c==b then c:=(a+c)*b end end

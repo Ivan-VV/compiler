@@ -1,0 +1,1 @@
+if not - id rop id + ·Ç·¨µ¥´Ê5 or false then begin id := id + id ; begin if true and id rop id then id := ( id + id ) * id end end # 

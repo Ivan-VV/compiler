@@ -1,0 +1,1 @@
+if id rop id + id then begin id := id + id ; id := id * id end #
